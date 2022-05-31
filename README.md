@@ -1,4 +1,4 @@
-This Project consists 2 components and 1 Apex Class
+This Project consists of 2 components and 1 Apex Class
 
 PaginationDemo - Parent Compoenent
 Pagination - Child Component
